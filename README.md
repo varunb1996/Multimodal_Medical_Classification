@@ -1,6 +1,6 @@
 # Multimodal Medical Document Classification
 
-This project fuses text and image modalities to classify scanned medical documents.
+This project fuses text and image modalities to classify scanned medical documents.Actual results/data might be missing because of data privacy
 
 ## Technologies
 - BERT (Hugging Face Transformers)
